@@ -71,6 +71,4 @@ These algorithms use precomputed motion primitives to simplify the planning proc
 
 - **Dynamic Movement Primitives (DMP)** – Generates adaptable and reusable motion trajectories.
 
----
-### 📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
