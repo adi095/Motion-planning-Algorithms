@@ -1,8 +1,8 @@
-# Motion Planning Algorithms
+# Task Planning Algorithms
 
 This repository provides a comprehensive list and categorization of various motion planning algorithms used in robotics and autonomous systems. These algorithms are crucial for enabling robots to navigate, avoid obstacles, and reach their goals efficiently in different environments.
 
-## 📋 Categories of Motion Planning Algorithms
+## 📋 Categories of Task planning algorithms
 
 The algorithms are organized into six main categories based on their core approach:
 
